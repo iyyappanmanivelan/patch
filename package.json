@@ -28,6 +28,7 @@
     "react-swipeable": "^7.0.2",
     "react-toastify": "^10.0.6",
     "swiper": "^11.1.14",
+    "vercel": "^41.1.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
